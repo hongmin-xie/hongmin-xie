@@ -17,7 +17,7 @@ I am currently looking for a full-time opportunity (CDI) in AI, Data Science or 
 
 | Category | Technologies |
 | --- | --- |
-| Programming | Python, SQL, JavaScript |
+| Programming | Python, SQL, Java, R, JavaScript |
 | Data Science | Pandas, NumPy, Scikit-learn |
 | Machine Learning & Deep Learning | PyTorch, TensorFlow, XGBoost |
 | NLP | spaCy, NLTK, Stanza, Hugging Face |
