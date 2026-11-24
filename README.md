@@ -26,34 +26,37 @@ I am currently looking for a full-time opportunity (CDI) in AI, Data Science or 
 | Business Intelligence | Power BI, DAX, Power Query, Tableau, Excel |
 | API & Development | FastAPI, REST API, Git, Jupyter, VS Code |
 
+
 ## Selected Projects
-
-### Artificial Intelligence & NLP
-
-- **LLM Evaluation for French Grammatical Error Correction**  
-  Comparative evaluation of large language models for grammatical error correction in French.
-
-- **RAG Document Assistant**  
-  Document-based question answering using LangChain, ChromaDB and large language models.
-
-- **Customer Review Analysis**  
-  Sentiment analysis and topic modeling using CamemBERT, DistilBERT, TF-IDF and LDA.
 
 ### Data Engineering & Analytics
 
 - **Sales Data Pipeline with PySpark**  
-  Data cleaning, transformation, data quality controls and business KPI calculation.
+  ETL pipeline, data cleaning, transformation, data quality controls and business KPI calculation using PySpark.
 
 - **Sales Analytics Dashboard**  
-  Interactive dashboards, dimensional data modeling and DAX measures using Power BI.
+  Dimensional data modeling, DAX measures and interactive business dashboards using Power BI.
 
-- **Demand Forecasting**  
-  Machine learning applied to demand forecasting and inventory management using XGBoost.
+### Generative AI & NLP
+
+- **LLM Evaluation for French Grammatical Error Correction**  
+  Comparative evaluation of large language models, linguistic analysis and automated error classification using Python and Stanza.
+
+- **RAG Document Assistant**  
+  Retrieval-Augmented Generation system for document-based question answering using LangChain, ChromaDB and LLMs.
+
+- **Customer Review Analysis**  
+  Sentiment analysis and topic modeling using CamemBERT, DistilBERT, TF-IDF and LDA.
+
+### Machine Learning & Data Science
+
+- **Demand Forecasting & Inventory Optimization**  
+  Predictive modeling using XGBoost, with model performance evaluation based on MAE and RMSE.
 
 ### API & Application Development
 
 - **Linguistic Quiz API**  
-  Development of a REST API using FastAPI for an interactive linguistic quiz application.
+  REST API development using FastAPI for an interactive linguistic quiz application.
 
 ## Education
 
