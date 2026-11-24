@@ -7,7 +7,7 @@
 
 I have a Master's-level background in Linguistic Data Sciences (NLP) from Université Grenoble Alpes, France.
 
-My interests focus on Artificial Intelligence, Machine Learning, Natural Language Processing, Generative AI and Data Analytics.
+My interests focus on Data Analytics, Data Engineering, Machine Learning, Artificial Intelligence, Generative AI and Natural Language Processing.
 
 With an interdisciplinary background in linguistics, communication and data science, I enjoy developing technical solutions to address real-world problems.
 
