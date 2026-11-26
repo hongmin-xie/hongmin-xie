@@ -11,7 +11,7 @@ My interests focus on Data Analytics, Data Engineering, Machine Learning, Artifi
 
 With an interdisciplinary background in linguistics, communication and data science, I enjoy developing technical solutions to address real-world problems.
 
-I am currently looking for a full-time opportunity (CDI) in AI, Data Science or Data Analytics in France.
+I am currently looking for a full-time opportunity (CDI) in Data Analytics, Data Engineering, Business Intelligence or Artificial Intelligence in France.
 
 ## Technical Skills
 
