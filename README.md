@@ -1,7 +1,7 @@
 
 # Hi, I'm Hongmin Xie 👋
 
-### Artificial Intelligence | Data Science | Natural Language Processing
+### Data Analytics | Data Engineering | Artificial Intelligence | NLP
 
 ## About Me
 
