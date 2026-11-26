@@ -73,8 +73,8 @@ I am currently looking for a full-time opportunity (CDI) in Data Analytics, Data
 ## Languages
 
 - Chinese — Native
-- French
-- English
+- French — C1 (Advanced)
+- English — B2 (Upper Intermediate)
 
 ## Contact
 
