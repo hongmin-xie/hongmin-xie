@@ -31,8 +31,9 @@ I am currently looking for a full-time opportunity (CDI) in Data Analytics, Data
 
 ### Data Engineering & Analytics
 
-- **Sales Data Pipeline with PySpark**  
-  ETL pipeline, data cleaning, transformation, data quality controls and business KPI calculation using PySpark.
+
+- **[Sales Data Pipeline with PySpark](https://github.com/hongmin-xie/sales-data-pipeline-pyspark)**  
+  End-to-end ETL pipeline with data cleaning, transformation, data quality validation, broadcast joins, business KPI calculation and automated testing.
 
 - **Sales Analytics Dashboard**  
   Dimensional data modeling, DAX measures and interactive business dashboards using Power BI.
