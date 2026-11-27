@@ -41,8 +41,14 @@ I am currently looking for a full-time opportunity (CDI) in Data Analytics, Data
 
 ### Generative AI & NLP
 
-- **LLM Evaluation for French Grammatical Error Correction**  
-  Comparative evaluation of large language models, linguistic analysis and automated error classification using Python and Stanza.
+- **French Grammatical Error Correction — LLM Evaluation**
+  
+  Master's research project at Université Grenoble Alpes within the DEEPER project (LIDILEM).
+
+  Developed an NLP evaluation pipeline using Python, Stanza, LLM APIs, prompt engineering and token-level alignment.
+
+  Evaluated four LLMs on 107 sentence pairs and 428 model outputs, achieving a best edit-level F1 score of 82.0% and a human-validated acceptability rate of 85.05%.
+
 
 - **RAG Document Assistant**  
   Retrieval-Augmented Generation system for document-based question answering using LangChain, ChromaDB and LLMs.
