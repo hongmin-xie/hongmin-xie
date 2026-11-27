@@ -41,13 +41,11 @@ I am currently looking for a full-time opportunity (CDI) in Data Analytics, Data
 
 ### Generative AI & NLP
 
-- **French Grammatical Error Correction — LLM Evaluation**
-  
-  Master's research project at Université Grenoble Alpes within the DEEPER project (LIDILEM).
 
-  Developed an NLP evaluation pipeline using Python, Stanza, LLM APIs, prompt engineering and token-level alignment.
-
-  Evaluated four LLMs on 107 sentence pairs and 428 model outputs, achieving a best edit-level F1 score of 82.0% and a human-validated acceptability rate of 85.05%.
+- **[French Grammatical Error Correction — LLM Evaluation](https://github.com/hongmin-xie/french-llm-evaluation)**  
+  Master's research project conducted at Université Grenoble Alpes within the DEEPER project (LIDILEM).  
+  LLM benchmarking, synthetic data augmentation, API integration, Stanza, token-level alignment and human-in-the-loop evaluation.  
+  107 sentence pairs, 428 LLM outputs, 82.0% best edit-level F1 and 85.05% human-validated acceptability.
 
 
 - **RAG Document Assistant**  
